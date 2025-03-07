@@ -1,6 +1,6 @@
 # 🌿 Plant-Shop
 
-A simple and elegant online plant shop built with **HTML, CSS, JavaScript, Bootstrap 5, and jQuery**.
+This project is created for the NSDA Web Design and Development Level-3 Assessment (Demonstration Job-2). Plant-Shop is a web-based platform designed for showcasing and selling a variety of plants. Built with **HTML, CSS, JavaScript, Bootstrap 5, and jQuery**, this project demonstrates a responsive and user-friendly e-commerce interface for plant enthusiasts.
 
 ## 🚀 Features
 
