@@ -1,0 +1,35 @@
+.form-container {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-container form {
+    color: #000;
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+.form-container .form-group {
+    flex: 1;
+    min-width: 200px;
+}
+.herobg {
+    background: url(../img/heroBG.jpg) no-repeat center center/cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.product-img {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+}
